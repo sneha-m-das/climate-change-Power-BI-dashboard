@@ -16,7 +16,7 @@ This Power BI dashboard analyzes global climate change trends and their impact a
 - Provide actionable insights
 
 ## Dashboard Preview
-
+Screenshot 2026-05-24 155943.png
 
 ## Key Insights
 - Climate impacts vary significantly by region.
